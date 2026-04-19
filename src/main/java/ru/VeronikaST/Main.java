@@ -3,7 +3,7 @@ package ru.VeronikaST;
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
-    private static String getMessage(){
+    private static String getMessage() {
         return "Hello qa.guru!!!!!!!!!!!!";
     }
     public static void main(String[] args) {
