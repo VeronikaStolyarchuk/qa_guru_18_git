@@ -4,7 +4,7 @@ package ru.VeronikaST;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     private static String getMessage() {
-        return "Hello qa.guru!!!!!!!!!!!!";
+        return "Hello world";
     }  
 
     public static void main(String[] args) {
